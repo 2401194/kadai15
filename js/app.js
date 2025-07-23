@@ -15,7 +15,7 @@ $(function() {
             //送信データの設定
             data:{
                 no: input_no,
-                name:input_name,
+                
                 score: input_score
             }
         }).done(function(data){
